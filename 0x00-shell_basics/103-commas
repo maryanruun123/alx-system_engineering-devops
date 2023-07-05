@@ -1,0 +1,2 @@
+#!/bin/bashls 
+ls -xamp
